@@ -13,5 +13,6 @@ public static void main(String[] args) {
 	t.ramSize();
 	ExternalDetails y = new ExternalDetails();
 	y.size();
+	y.value();
 }
 }
